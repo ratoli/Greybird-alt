@@ -1,7 +1,7 @@
 ####Name: Greybird-alternative
 Summary: Alternative window decoration for the Greybird Xfce theme
 
-Based on: (https://github.com/shimmerproject/Greybird/tree/master/xfwm4)
+Based on: (https://github.com/shimmerproject/Greybird)
 
 URL: http://xfce-look.org/content/show.php/Greybird+alternative?content=168845
 
