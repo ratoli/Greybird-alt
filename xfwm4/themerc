@@ -1,11 +1,7 @@
-# Author: Simon Steinbeiß <simon.steinbeiss@elfenbeinturm.at>
-# Modified by: Marcelo Aguero <marceloaguero@gmail.com>
-# Modified again by: Simon Steinbeiß <simon.steinbeiss@elfenbeinturm.at>
-# Modified again by: Ramon Kaes <ramon.kaes@gmail.com>
-# Author of original metacity theme: elementart Art Team
-# Greybird theme for xfwm4 using GTK color pickup.
-# License: GPL
-# Date: January 2011
+# Greybird-alternative v1.6
+# Window-decoration for the Greybird-Xfce-theme by Simon Steinbeiß
+# License: GPLv2 or later and CC-BY-SA 3.0 or later
+# Date: September 2015
 
 active_text_color=#686868
 active_text_shadow_color=#ececec
@@ -13,7 +9,7 @@ inactive_text_color=#bbbbbb
 inactive_text_shadow_color=#ececec
 button_offset=4
 button_spacing=0
-# button_layout=OTS|HMC
+button_layout=OT|SHMC
 full_width_title=true
 maximized_offset=3
 shadow_delta_height=2
