@@ -1,5 +1,6 @@
-# Greybird-alternative v1.6
+# Greybird-alternative
 # Window-decoration for the Greybird-Xfce-theme by Simon Steinbeiß
+# Author: Ramon Kaes <ramon.kaes@gmail.com>
 # License: GPLv2 or later and CC-BY-SA 3.0 or later
 # Date: September 2015
 
@@ -24,4 +25,3 @@ title_shadow_active=true
 title_shadow_inactive=true
 title_vertical_offset_active=0
 title_vertical_offset_inactive=0
-
